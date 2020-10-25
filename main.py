@@ -42,3 +42,5 @@ fhand = open("stuff.jpg", "wb")
 fhand.write(picture)
 fhand.close()
 # Code: http://www.py4e.com/code3/urljpeg.py
+
+# We can simply use urllib and treat the webpages as files
